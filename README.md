@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! I'm a highly motivated and results-oriented Mast
 
 ## About Me
 
-I am eager to contribute to the mission of transforming digital experiences for the future. My background in finance and marketing, combined with my advanced studies in business analytics and artificial intelligence, has equipped me with a unique blend of skills to tackle complex data challenges and drive insights.
+I am eager to contribute to the mission of transforming digital experiences for the future. My background in finance and marketing, combined with my graduate studies in business analytics and artificial intelligence, has equipped me with a unique blend of skills to tackle complex data challenges and drive insights.
 
 ## Skills
 
