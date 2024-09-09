@@ -16,7 +16,7 @@ Here are some of the key tools and technologies I work with:
 - **Power BI**
 - **Tableau**
 - **Excel**
-- **Google Ads**
+- **Facebook Ads**
 
 ## Featured Projects
 
